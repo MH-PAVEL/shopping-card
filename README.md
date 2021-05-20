@@ -13,4 +13,4 @@ A Moblie phone add to cart page using core javaScript
 -JAVASCRIPT
 -ES6
 
-### [LIVE SITE](https://sonjoybarmon.github.io/shopingCard/)
+### [LIVE SITE](https://mh-pavel.github.io/shopping-card/)

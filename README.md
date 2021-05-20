@@ -1,7 +1,7 @@
 # shopingCard
 
 ## Features
-A Moblie phone buy site . full use core javaScript
+A Moblie phone add to cart page using core javaScript
 
 ### shopingCard
 - use core javaScript and core functionlety .
